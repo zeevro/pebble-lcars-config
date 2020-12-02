@@ -1,5 +1,5 @@
 # pebble-lcars-config
-Configuration page for TomHol's Pebble LCARS watch face
+Configuration page for TomHol's Pebble LCARS watch face - (link to watch face on Rebble store)[https://store-beta.rebble.io/app/54730439c13ebf214f000052]
 
 I love this great watch face and use it as my main one, but sadly, while setting up a new watch, I discovered the configuration page was no longer online.
 I managed (with a great deal of luck) to retrieve the page from The WayBack Machine ([here it is](ttps://web.archive.org/web/20161209152638/http://pebbleconfig.php5.cz/lcars6.html)) and extract all the resources necessary.
