@@ -6,4 +6,4 @@ I managed (with a great deal of luck) to retrieve the page from The WayBack Mach
 
 The page is usable if you set up a web server with the files in this repository and set a DNS record named `pebbleconfig.php5.cz` to point to it.
 
-I will try to make it work on the original domain for everyone to use and will update here if I succeed.
+I will try to make it work on the original domain for everyone to use and will update here if I succeed. (Update: I did succeed 😁)
